@@ -1,0 +1,17 @@
+
+
+.click_button {
+    background-color: black;
+    color: rgb(214, 208, 208);
+}
+
+.dont_click_button {
+    background-color: rgb(229, 229, 132);
+
+}
+
+.click_button,
+.dont_click_button {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
